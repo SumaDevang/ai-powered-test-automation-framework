@@ -1,0 +1,5 @@
+target/
+test-output/
+reports/screenshots/
+*.log
+.DS_Store
